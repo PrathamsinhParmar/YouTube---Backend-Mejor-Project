@@ -1,0 +1,18 @@
+{
+  "name": "youtube---backend-mejor-project",
+  "version": "1.0.0",
+  "description": "A proper Social Media Application(YouTube) with a complex features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Express",
+    "Mongo",
+    "Node",
+    "YouTube"
+  ],
+  "author": "Prathamsinh Parmar",
+  "license": "ISC"
+}

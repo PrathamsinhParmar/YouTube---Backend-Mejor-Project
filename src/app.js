@@ -18,5 +18,4 @@ app.use(express.static("public"))   // Here public is the folder, where some ima
 
 app.use(cookieParser())
 
-
 export {app}
